@@ -1,9 +1,9 @@
 {
-  "name": "wxm/pdd-sdk",
+  "name": "xiangwork/pindd",
   "type": "library",
-  "description": "拼多多 SDK 封装, 调用简单、语义化增强。支持 Laravel/Lumen。",
+  "description": "拼多多 SDK 封装",
   "keywords": [
-    "pdd",
+    "pindd",
     "pinduoduo",
     "sdk",
     "kernel",
@@ -11,12 +11,12 @@
     "lumen",
     "php"
   ],
-  "homepage": "https://github.com/qq15725/pdd-sdk",
+  "homepage": "https://github.com/xiangwork/pindd",
   "license": "MIT",
   "authors": [
     {
-      "name": "wxm",
-      "email": "157215725@qq.com",
+      "name": "xiangwork",
+      "email": "xiangbing@88.com",
       "role": "Developer"
     }
   ],
